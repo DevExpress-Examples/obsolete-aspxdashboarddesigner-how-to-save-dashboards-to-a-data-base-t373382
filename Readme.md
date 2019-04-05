@@ -3,9 +3,9 @@
 
 * [DataBaseDashboardStorage.cs](./CS/App_Code/DataBaseDashboardStorage.cs) (VB: [DataBaseDashboardStorage.vb](./VB/App_Code/DataBaseDashboardStorage.vb))
 * [Default.aspx](./CS/Default.aspx) (VB: [Default.aspx](./VB/Default.aspx))
-* [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx](./VB/Default.aspx))
+* [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
 * [Global.asax](./CS/Global.asax) (VB: [Global.asax](./VB/Global.asax))
-* [Global.asax.cs](./CS/Global.asax.cs) (VB: [Global.asax](./VB/Global.asax))
+* [Global.asax.cs](./CS/Global.asax.cs) (VB: [Global.asax.vb](./VB/Global.asax.vb))
 <!-- default file list end -->
 #  OBSOLETE - ASPxDashboardDesigner - How to save dashboards to a data base
 
